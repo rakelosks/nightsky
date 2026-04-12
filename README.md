@@ -36,7 +36,7 @@ How might satellite mega-constellations further threaten Europe’s remaining da
 All notebooks are intended to run top-to-bottom. Data download or API instructions will be documented here as the project progresses.
 
 ## Team roles
-•	Project Lead: Rakel 
-•	Data Acquisition Team: José, Brian
-•	Analysis Team: Jenna, Neal, Fares
-•	Report & Presentation Lead: Marevi
+- Project Lead: Rakel 
+- Data Acquisition Team: José, Brian
+- Analysis Team: Jenna, Neal, Fares
+- Report & Presentation Lead: Marevi
