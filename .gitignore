@@ -5,6 +5,9 @@ __pycache__/
 *.pyc
 **/.DS_Store
 
+# OSMnx / Overpass cache
+notebooks/cache/
+
 # C extensions
 *.so
 
