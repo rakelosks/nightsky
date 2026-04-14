@@ -1,0 +1,5 @@
+Model,N,R-squared,Adj R-squared,F-stat,BP p-val,Key predictors (p<0.05)
+Pooled OLS,243,0.847,0.841,143.06,0.0119,"population, gdp_per_capita_eur, population_density, road_density_km_per_km2, street_lamp_count, building_area_km2, landuse_commercial_km2, landuse_industrial_km2, green_fraction"
+Pooled OLS (HC3),243,0.847,0.841,407.47,--,"population, gdp_per_capita_eur, population_density, road_density_km_per_km2, street_lamp_count, building_area_km2, landuse_commercial_km2, landuse_industrial_km2, green_fraction"
+Cross-sectional (2024),27,0.646,0.515,4.95,0.0821,"road_density_km_per_km2, building_area_km2, landuse_commercial_km2"
+City Fixed Effects,266,0.158,0.150,16.40,0.6764,population
